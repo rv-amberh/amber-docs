@@ -1,6 +1,6 @@
 # AmberDocs
 
-A minimal Markdown editor built with React.
+A minimal Markdown editor built with React and designed in Figma by me.
 
 ## Demo
 
