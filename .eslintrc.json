@@ -1,0 +1,39 @@
+{
+    "env": {
+      "browser": true,
+      "es2021": true,
+      "node": true  
+    },
+    "extends": [
+      "eslint:recommended",
+      "plugin:react/recommended",
+      "prettier",                    
+      "plugin:prettier/recommended"  
+    ],
+    "plugins": ["react", "prettier"],
+    "parserOptions": {
+      "ecmaVersion": 12,
+      "sourceType": "module"
+    },
+    "settings": {
+      "react": {
+        "version": "detect"   
+      }
+    },
+    "rules": {
+      "prettier/prettier": ["error", {
+        "singleQuote": true,
+        "trailingComma": "all",
+        "arrowParens": "avoid",
+          "react/react-in-jsx-scope": "off"
+      }],
+      "camelcase": ["error", {
+        "properties": "always",          // enforce on object properties too
+        "ignoreDestructuring": false,    // don’t let destructured names slip
+        "allow": ["^UNSAFE_"]             // optional: whitelist keys like UNSAFE_componentWill…
+      }],
+      "react/prop-types": "off",
+      "react/react-in-jsx-scope": "off"
+    }
+  }
+  
