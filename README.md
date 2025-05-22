@@ -2,6 +2,17 @@
 
 A minimal Markdown editor built with React.
 
+## Demo
+
+
+
+https://github.com/user-attachments/assets/7dc8ec6d-30f8-411f-a446-163498e4cc0d
+
+
+## Full Demo
+
+
+
 ## Quick Start
 
 - Install dependencies 
