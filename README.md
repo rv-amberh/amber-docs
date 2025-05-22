@@ -11,7 +11,7 @@ https://github.com/user-attachments/assets/7dc8ec6d-30f8-411f-a446-163498e4cc0d
 
 ## Full Demo
 
-https://drive.google.com/drive/u/2/home
+https://drive.google.com/file/d/1w1ea2Pxo8BL7b8BsazU6TaBO3HOzdeNG/view?usp=sharing
 
 ## Quick Start
 
